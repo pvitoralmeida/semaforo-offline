@@ -39,7 +39,7 @@ Este projeto consiste na montagem física e programação de um **semáforo** ut
 |Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código |	Até 1 |	Até 0,5 |	0 | Nota dada: 0,5 |	
 | | | | |Pontuação Total: 9,5|
 
-#### Avaliador: Nome do Avaliador
+#### Avaliador: Nicolli Venino
 
 |Critério|	Contempla (Pontos)|	Contempla Parcialmente (Pontos)	|Não Contempla (Pontos)	|Observações do Avaliador|
 |-|-|-|-|-|
