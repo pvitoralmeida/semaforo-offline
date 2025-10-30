@@ -21,9 +21,10 @@ Monte o circuito conectando três LEDs (vermelho, amarelo e verde) a portas digi
 | LED verde          | 5mm              |     1      |                        |
 | Resistor           | 220Ω             |     3      | Um para cada LED       |
 | Protoboard         | -                |     1      |                        |
-| Jumpers/Fios       | Macho-Fêmea      |   6 | Para conexões          |
-| Arduino UNO | -          |     1      |   |
+| Jumpers/Fios       | Macho-Fêmea      |     6      | Para conexões          |
+| Arduino UNO        | -                |     1      |                        |
 | Cabo USB           | -                |     1      | Para alimentação       |
+| Suporte de Madeira | -                |     1      | Opcional               |
 
 ---
 
