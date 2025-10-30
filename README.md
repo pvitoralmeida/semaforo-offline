@@ -4,6 +4,12 @@
 
 Este projeto consiste na montagem física e programação de um **semáforo** utilizando LEDs, resistores e uma protoboard. O sistema alterna entre as fases vermelho, verde e amarelo, respeitando os tempos especificados.
 
+## 🔨 Tutorial
+
+![Foto do Circuito](circuit.png)
+
+Monte o circuito conectando três LEDs (vermelho, amarelo e verde) a portas digitais do Arduino, cada um com um resistor em série ligados ao GND da placa microcontroladora. Use jumpers para ligar os LEDs e resistores aos pinos e ao GND. Em caso de utilizar um suporte para os LEDs, utilize jumpers macho-fêmea para ligá-los à protoboard e ao Arduino, em caso contrário, insira os LEDs diretamente na protoboard e utilize jumpers macho-macho para fazer as ligações.
+
 ---
 
 ## 🛠️ Materiais Utilizados
