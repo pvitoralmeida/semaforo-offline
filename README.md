@@ -29,7 +29,7 @@ Monte o circuito conectando três LEDs (vermelho, amarelo e verde) a portas digi
 
 ## 🎥 Vídeo Demonstrativo
 
-- **Link do vídeo**: [Insira o link do vídeo aqui]
+- **Link do vídeo**: [semaforo_offline.mp4](https://drive.google.com/file/d/1occbEIjHHaIA-36PFMIpEkpprGBc5c51/view?usp=sharing)
 
 ---
 
